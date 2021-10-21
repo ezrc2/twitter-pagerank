@@ -1,5 +1,4 @@
-# ericzc2-srzhu3-sgrover4-ztg2
-**Final Presentation**: https://www.youtube.com/watch?v=_VYlwVQH5SY
+# Higgs Boson Twitter Pagerank
 
 **Location of code:**
 
