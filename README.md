@@ -1,4 +1,4 @@
-# Higgs Boson Twitter Pagerank
+# Higgs Boson Twitter PageRank
 
 **Location of code:**
 
